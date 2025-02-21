@@ -1,0 +1,15 @@
+body{
+    background-color: #2c2c2c;
+}
+
+.form-layout{
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+.article-info{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
